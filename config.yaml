@@ -1,0 +1,9 @@
+telegram:
+  bot_token: "7818012228:AAFwamFX6DRMtb3KvhEUDI6JNsa3TwmRpjo"
+  chat_id: "1476289658"
+  trade_chat_id: "1476289658"  # Chat where BonkBot listens
+
+web3_provider: "https://mainnet.infura.io/v3/YOUR_INFURA_KEY"
+
+database:
+  url: "postgresql://user:pass@localhost:5432/dex_trading"
